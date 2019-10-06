@@ -42,7 +42,7 @@ body {
 
 /*  --- Landing Page --- */
 .home-inner {
-  background-image: url(img/computers.png);
+  background-image: url('img/computers.png');
 }
 
 .caption {
@@ -131,7 +131,7 @@ h3.heading {
 
 /* --- Resources --- */
 .fixed {
-  background-image: url(img/apple.png);
+  background-image: url('img/apple.png');
   z-index: -1;
 }
 
